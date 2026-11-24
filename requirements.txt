@@ -1,0 +1,4 @@
+# CBSE & Production-Ready Inventory Management System Dependencies
+# Note: Tkinter, SQLite, and standard modules are included with Python.
+
+mysql-connector-python>=8.0.0
